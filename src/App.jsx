@@ -23,7 +23,8 @@ function App() {
           these music tracks are pulled from ice skating programs I feel are
           particularly beautiful, particularly push-and-pull-y (if that makes
           sense). I'm an ice skater too, so I thought this would be a lovely
-          visual aid to show the kind of quality I'm trying to describe.
+          visual aid to show the kind of quality I'm trying to describe. Spotify in websites
+          can also be kind-of finicky, so please let me know if there are any issues accessing the playlist!
         </p>
         <div className="spotify-wrapper">
           <iframe
