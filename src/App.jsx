@@ -17,13 +17,13 @@ function App() {
         </h1>
         <p className="intro-text">
           I made this playlist off of a certain feeling. These songs, to me, are
-          all kind of stretching and pulling in a certain way. Some of them
-          don't exactly match this description, but I think match well with the
-          others. Also, some of these music tracks are pulled from ice skating
-          programs I feel are particularly beautiful, particularly
-          push-and-pull-y (if that makes sense). I'm an ice skater too, so I
-          thought this would be a lovely visual aid to show the kind of quality
-          I'm trying to describe.
+          all kind of stretching and pulling in a certain way. As such, I added
+          a few sonatas and spirituals (from class and not) that I feel match
+          this description, on top of a lot of modern tracks. Also, some of
+          these music tracks are pulled from ice skating programs I feel are
+          particularly beautiful, particularly push-and-pull-y (if that makes
+          sense). I'm an ice skater too, so I thought this would be a lovely
+          visual aid to show the kind of quality I'm trying to describe.
         </p>
         <div className="spotify-wrapper">
           <iframe
