@@ -120,10 +120,10 @@
 }
 
 .playlist-title {
-  color: rgba(255, 255, 255, 0.95);
+  color: #D2691E;
   font-family: "Playfair Display", serif;
   font-size: 3rem;
-  font-weight: 500;
+  font-weight: 700;
   text-align: center;
   margin: 0;
   text-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
